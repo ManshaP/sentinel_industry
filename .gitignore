@@ -1,3 +1,11 @@
+untitled_project/
+polys/
+s2aws_download/
+downloaded_aois/
+Global*
+logs/
+requirements.txt
+*SFI-Global-Steel-Database-July-2021.xlsx
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
