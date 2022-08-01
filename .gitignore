@@ -6,6 +6,9 @@ Global*
 logs/
 requirements.txt
 *SFI-Global-Steel-Database-July-2021.xlsx
+hyperres/
+savedata_train/
+savedata_valid/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
