@@ -9,6 +9,7 @@ requirements.txt
 hyperres/
 savedata_train/
 savedata_valid/
+saved_models/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
