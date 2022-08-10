@@ -10,6 +10,7 @@ hyperres/
 savedata_train/
 savedata_valid/
 saved_models/
+deploy/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
