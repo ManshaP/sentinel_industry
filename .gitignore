@@ -4,7 +4,7 @@ s2aws_download/
 downloaded_aois/
 Global*
 logs/
-requirements.txt
+#requirements.txt
 *SFI-Global-Steel-Database-July-2021.xlsx
 hyperres/
 savedata_train/
@@ -12,6 +12,9 @@ savedata_valid/
 savedata_test/
 saved_models/
 deploy/
+bingmaps/downloaded_patches/*
+bingmaps/polys/*
+bingmaps/bing_cache/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
