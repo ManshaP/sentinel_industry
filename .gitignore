@@ -9,6 +9,7 @@ requirements.txt
 hyperres/
 savedata_train/
 savedata_valid/
+savedata_test/
 saved_models/
 deploy/
 # Byte-compiled / optimized / DLL files
