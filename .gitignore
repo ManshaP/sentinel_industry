@@ -2,10 +2,10 @@ untitled_project/
 polys/
 s2aws_download/
 downloaded_aois/
-Global*
+#Global*
 logs/
 #requirements.txt
-*SFI-Global-Steel-Database-July-2021.xlsx
+#*SFI-Global-Steel-Database-July-2021.xlsx
 hyperres/
 savedata_train/
 savedata_valid/
