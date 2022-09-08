@@ -1,13 +1,16 @@
 python=3.8
+gdal
 tensorflow
 keras
 jupyterlab
+shapely
 geojson
 gdal
 geopandas
 pillow
 opencv
 tqdm
+scikit-learn
 scikit-image
 rasterio
 boto3
@@ -16,3 +19,4 @@ retry
 fiona
 sentinelhub
 openpyxl
+cleanlab
