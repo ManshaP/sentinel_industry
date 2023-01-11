@@ -1,0 +1,253 @@
+[I 2023-01-03 12:14:06.131 ServerApp] jupyterlab | extension was successfully linked.
+[I 2023-01-03 12:14:07.298 ServerApp] nbclassic | extension was successfully linked.
+[I 2023-01-03 12:14:07.443 ServerApp] nbclassic | extension was successfully loaded.
+[I 2023-01-03 12:14:07.444 LabApp] JupyterLab extension loaded from /home/users/pete_nut/miniconda3/lib/python3.8/site-packages/jupyterlab
+[I 2023-01-03 12:14:07.444 LabApp] JupyterLab application directory is /home/users/pete_nut/miniconda3/share/jupyter/lab
+[I 2023-01-03 12:14:07.447 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2023-01-03 12:14:07.447 ServerApp] The port 8888 is already in use, trying another port.
+[I 2023-01-03 12:14:07.448 ServerApp] The port 8889 is already in use, trying another port.
+[I 2023-01-03 12:14:07.448 ServerApp] Serving notebooks from local directory: /home/users/pete_nut/sentinel_industry
+[I 2023-01-03 12:14:07.448 ServerApp] Jupyter Server 1.13.5 is running at:
+[I 2023-01-03 12:14:07.448 ServerApp] http://localhost:8890/lab?token=b9c6832fce87bfcd35955d8dabe519a69df58cc5cd455974
+[I 2023-01-03 12:14:07.448 ServerApp]  or http://127.0.0.1:8890/lab?token=b9c6832fce87bfcd35955d8dabe519a69df58cc5cd455974
+[I 2023-01-03 12:14:07.448 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2023-01-03 12:14:07.516 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/users/pete_nut/.local/share/jupyter/runtime/jpserver-35103-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8890/lab?token=b9c6832fce87bfcd35955d8dabe519a69df58cc5cd455974
+     or http://127.0.0.1:8890/lab?token=b9c6832fce87bfcd35955d8dabe519a69df58cc5cd455974
+[I 2023-01-03 12:14:13.352 ServerApp] 302 GET /?token=b9c6832fce87bfcd35955d8dabe519a69df58cc5cd455974 (127.0.0.1) 0.56ms
+[W 2023-01-03 12:14:17.231 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2023-01-03 12:14:18.743 ServerApp] 404 GET /api/contents/IV_shiptracks/compare_ml_detections/ML_overlap.ipynb?content=0&1672748058683 (127.0.0.1): No such file or directory: IV_shiptracks/compare_ml_detections/ML_overlap.ipynb
+[W 2023-01-03 12:14:18.743 ServerApp] No such file or directory: IV_shiptracks/compare_ml_detections/ML_overlap.ipynb
+[W 2023-01-03 12:14:18.743 ServerApp] 404 GET /api/contents/IV_shiptracks/compare_ml_detections/ML_overlap.ipynb?content=0&1672748058683 (127.0.0.1) 1.81ms referer=http://localhost:8890/lab
+[W 2023-01-03 12:14:18.744 ServerApp] 404 GET /api/contents/IV_shiptracks/compare_ml_detections/ML_ovl_emissions.ipynb?content=0&1672748058683 (127.0.0.1): No such file or directory: IV_shiptracks/compare_ml_detections/ML_ovl_emissions.ipynb
+[W 2023-01-03 12:14:18.744 ServerApp] No such file or directory: IV_shiptracks/compare_ml_detections/ML_ovl_emissions.ipynb
+[W 2023-01-03 12:14:18.744 ServerApp] 404 GET /api/contents/IV_shiptracks/compare_ml_detections/ML_ovl_emissions.ipynb?content=0&1672748058683 (127.0.0.1) 0.81ms referer=http://localhost:8890/lab
+[W 2023-01-03 12:14:18.764 ServerApp] 404 GET /api/contents/IV_shiptracks/compare_ml_detections/ML_ovl_map.ipynb?content=0&1672748058684 (127.0.0.1): No such file or directory: IV_shiptracks/compare_ml_detections/ML_ovl_map.ipynb
+[W 2023-01-03 12:14:18.764 ServerApp] No such file or directory: IV_shiptracks/compare_ml_detections/ML_ovl_map.ipynb
+[W 2023-01-03 12:14:18.765 ServerApp] 404 GET /api/contents/IV_shiptracks/compare_ml_detections/ML_ovl_map.ipynb?content=0&1672748058684 (127.0.0.1) 0.73ms referer=http://localhost:8890/lab
+[W 2023-01-03 12:14:18.765 ServerApp] 404 GET /api/contents/IV_shiptracks/compare_ml_detections/explore.ipynb?content=0&1672748058684 (127.0.0.1): No such file or directory: IV_shiptracks/compare_ml_detections/explore.ipynb
+[W 2023-01-03 12:14:18.765 ServerApp] No such file or directory: IV_shiptracks/compare_ml_detections/explore.ipynb
+[W 2023-01-03 12:14:18.765 ServerApp] 404 GET /api/contents/IV_shiptracks/compare_ml_detections/explore.ipynb?content=0&1672748058684 (127.0.0.1) 0.55ms referer=http://localhost:8890/lab
+[W 2023-01-03 12:14:18.768 ServerApp] 404 GET /api/contents/IV_shiptracks/compare_ml_detections/ML_ovl_map_meteorology.ipynb?content=0&1672748058685 (127.0.0.1): No such file or directory: IV_shiptracks/compare_ml_detections/ML_ovl_map_meteorology.ipynb
+[W 2023-01-03 12:14:18.768 ServerApp] No such file or directory: IV_shiptracks/compare_ml_detections/ML_ovl_map_meteorology.ipynb
+[W 2023-01-03 12:14:18.768 ServerApp] 404 GET /api/contents/IV_shiptracks/compare_ml_detections/ML_ovl_map_meteorology.ipynb?content=0&1672748058685 (127.0.0.1) 0.55ms referer=http://localhost:8890/lab
+[W 2023-01-03 12:14:19.427 ServerApp] 404 GET /api/contents/IV_shiptracks/compare_ml_detections?1672748059385 (127.0.0.1): No such file or directory: IV_shiptracks/compare_ml_detections
+[W 2023-01-03 12:14:19.427 ServerApp] No such file or directory: IV_shiptracks/compare_ml_detections
+[W 2023-01-03 12:14:19.427 ServerApp] 404 GET /api/contents/IV_shiptracks/compare_ml_detections?1672748059385 (127.0.0.1) 0.83ms referer=http://localhost:8890/lab
+[W 2023-01-03 12:14:37.661 ServerApp] 400 GET /api/contents/discard1half.npy?type=file&content=1&format=text&1672748077614 (127.0.0.1): /home/users/pete_nut/sentinel_industry/discard1half.npy is not UTF-8 encoded
+[W 2023-01-03 12:14:37.662 ServerApp] /home/users/pete_nut/sentinel_industry/discard1half.npy is not UTF-8 encoded
+[W 2023-01-03 12:14:37.662 ServerApp] 400 GET /api/contents/discard1half.npy?type=file&content=1&format=text&1672748077614 (127.0.0.1) 3.06ms referer=http://localhost:8890/lab
+[W 2023-01-03 12:14:57.251 ServerApp] Notebook bingmaps/download_bing.ipynb is not trusted
+[I 2023-01-03 12:14:58.184 ServerApp] Kernel started: 4211b70f-6e87-454e-80b1-8f0fbec06cb3
+[I 2023-01-03 12:15:00.043 ServerApp] Kernel started: 5437bfdd-3a3b-4746-a1c1-1a7ca12bb165
+[I 2023-01-03 12:16:57.767 ServerApp] Saving file at /bingmaps/download_bing.ipynb
+[W 2023-01-03 12:16:57.767 ServerApp] Notebook bingmaps/download_bing.ipynb is not trusted
+[I 2023-01-03 12:16:59.406 ServerApp] Saving file at /bingmaps/process_known_sourcesreduced_size.ipynb
+[I 2023-01-03 12:17:47.629 ServerApp] Starting buffering for 5437bfdd-3a3b-4746-a1c1-1a7ca12bb165:d1e450c7-c591-4800-9b09-5a7640580fe9
+[I 2023-01-03 12:17:51.854 ServerApp] Kernel shutdown: 5437bfdd-3a3b-4746-a1c1-1a7ca12bb165
+[I 2023-01-03 12:18:10.251 ServerApp] Copying train_res50v2.ipynb to /bingmaps
+[W 2023-01-03 12:18:10.276 ServerApp] Notebook train_res50v2.ipynb is not trusted
+[I 2023-01-03 12:18:14.283 ServerApp] Kernel started: a5ee97f0-79bc-4df6-af74-8f9eb1ebf662
+[I 2023-01-03 12:20:12.833 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 12:23:03.938 ServerApp] Saving file at /bingmaps/download_bing.ipynb
+[W 2023-01-03 12:23:03.939 ServerApp] Notebook bingmaps/download_bing.ipynb is not trusted
+[W 2023-01-03 12:50:00.099 ServerApp] WebSocket ping timeout after 119974 ms.
+[W 2023-01-03 12:50:00.099 ServerApp] WebSocket ping timeout after 119968 ms.
+[I 2023-01-03 12:50:05.101 ServerApp] Starting buffering for 4211b70f-6e87-454e-80b1-8f0fbec06cb3:d3bb3c8e-1fff-49cc-a51b-774baf152469
+[W 2023-01-03 12:50:16.083 ServerApp] WebSocket ping timeout after 119970 ms.
+[I 2023-01-03 12:50:21.085 ServerApp] Starting buffering for a5ee97f0-79bc-4df6-af74-8f9eb1ebf662:64f18b93-8694-4c27-92fc-01d5506ed80c
+[I 2023-01-03 13:53:51.048 ServerApp] Restoring connection for a5ee97f0-79bc-4df6-af74-8f9eb1ebf662:64f18b93-8694-4c27-92fc-01d5506ed80c
+[I 2023-01-03 13:54:55.558 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 14:19:00.328 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 14:21:00.557 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 14:21:11.962 ServerApp] Kernel restarted: a5ee97f0-79bc-4df6-af74-8f9eb1ebf662
+[I 2023-01-03 14:21:14.668 ServerApp] Starting buffering for a5ee97f0-79bc-4df6-af74-8f9eb1ebf662:64f18b93-8694-4c27-92fc-01d5506ed80c
+[I 2023-01-03 14:21:14.768 ServerApp] Restoring connection for a5ee97f0-79bc-4df6-af74-8f9eb1ebf662:64f18b93-8694-4c27-92fc-01d5506ed80c
+[I 2023-01-03 14:23:00.917 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 14:23:54.545 ServerApp] 302 GET / (127.0.0.1) 0.43ms
+[I 2023-01-03 14:23:54.546 LabApp] 302 GET /lab (127.0.0.1) 0.41ms
+[I 2023-01-03 14:23:57.706 ServerApp] Starting buffering for 4211b70f-6e87-454e-80b1-8f0fbec06cb3:e3967713-dca9-44db-bde2-5ebe720210de
+[I 2023-01-03 14:23:57.707 ServerApp] Starting buffering for a5ee97f0-79bc-4df6-af74-8f9eb1ebf662:64f18b93-8694-4c27-92fc-01d5506ed80c
+[C 2023-01-03 14:23:59.581 ServerApp] received signal 15, stopping
+[I 2023-01-03 14:23:59.584 ServerApp] Shutting down 2 extensions
+[I 2023-01-03 14:23:59.585 ServerApp] Shutting down 2 kernels
+[I 2023-01-03 14:23:59.585 ServerApp] Kernel shutdown: 4211b70f-6e87-454e-80b1-8f0fbec06cb3
+[I 2023-01-03 14:23:59.586 ServerApp] Kernel shutdown: a5ee97f0-79bc-4df6-af74-8f9eb1ebf662
+[I 2023-01-03 14:24:02.189 ServerApp] Shutting down 0 terminals
+[I 2023-01-03 14:24:26.406 ServerApp] jupyterlab | extension was successfully linked.
+[I 2023-01-03 14:24:27.286 ServerApp] nbclassic | extension was successfully linked.
+[I 2023-01-03 14:24:27.400 ServerApp] nbclassic | extension was successfully loaded.
+[I 2023-01-03 14:24:27.400 LabApp] JupyterLab extension loaded from /home/users/pete_nut/miniconda3/envs/sentinelind/lib/python3.8/site-packages/jupyterlab
+[I 2023-01-03 14:24:27.400 LabApp] JupyterLab application directory is /home/users/pete_nut/miniconda3/envs/sentinelind/share/jupyter/lab
+[I 2023-01-03 14:24:27.404 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2023-01-03 14:24:27.404 ServerApp] The port 8888 is already in use, trying another port.
+[I 2023-01-03 14:24:27.405 ServerApp] The port 8889 is already in use, trying another port.
+[I 2023-01-03 14:24:27.405 ServerApp] Serving notebooks from local directory: /home/users/pete_nut/sentinel_industry
+[I 2023-01-03 14:24:27.405 ServerApp] Jupyter Server 1.18.1 is running at:
+[I 2023-01-03 14:24:27.405 ServerApp] http://localhost:8890/lab?token=b1da7029f7d9eae6e9b117b3fb3ca54bc70b73325d7ab986
+[I 2023-01-03 14:24:27.405 ServerApp]  or http://127.0.0.1:8890/lab?token=b1da7029f7d9eae6e9b117b3fb3ca54bc70b73325d7ab986
+[I 2023-01-03 14:24:27.405 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2023-01-03 14:24:27.419 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/users/pete_nut/.local/share/jupyter/runtime/jpserver-39362-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8890/lab?token=b1da7029f7d9eae6e9b117b3fb3ca54bc70b73325d7ab986
+     or http://127.0.0.1:8890/lab?token=b1da7029f7d9eae6e9b117b3fb3ca54bc70b73325d7ab986
+[I 2023-01-03 14:24:37.038 ServerApp] 302 GET /?token=b1da7029f7d9eae6e9b117b3fb3ca54bc70b73325d7ab986 (127.0.0.1) 0.64ms
+[W 2023-01-03 14:24:40.897 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2023-01-03 14:24:42.401 ServerApp] Notebook bingmaps/download_bing.ipynb is not trusted
+[I 2023-01-03 14:24:46.869 ServerApp] Kernel started: cccecac5-5cf1-4a98-b56b-302279e8ae76
+[I 2023-01-03 14:24:46.880 ServerApp] Kernel started: aab989fc-e2e8-49e2-9c61-dfd72de435ab
+2023-01-03 14:26:26.660093: I tensorflow/compiler/jit/xla_cpu_device.cc:41] Not creating XLA devices, tf_xla_enable_xla_devices not set
+2023-01-03 14:26:26.675764: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-01-03 14:26:26.685292: I tensorflow/core/common_runtime/process_util.cc:146] Creating new thread pool with default inter op setting: 2. Tune using inter_op_parallelism_threads for best performance.
+[I 2023-01-03 14:26:43.023 ServerApp] Saving file at /bingmaps/download_bing.ipynb
+[W 2023-01-03 14:26:43.024 ServerApp] Notebook bingmaps/download_bing.ipynb is not trusted
+[I 2023-01-03 14:26:44.767 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 14:28:45.516 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 14:37:00.266 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 14:39:00.457 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 14:41:00.664 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 14:43:00.861 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 14:45:01.746 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 14:53:13.150 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 14:55:21.713 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 14:59:27.519 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 15:01:27.873 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 15:03:28.232 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 15:04:01.630 ServerApp] Creating new directory in /bingmaps
+[I 2023-01-03 15:05:28.651 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 15:07:29.013 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 15:09:29.457 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+2023-01-03 15:09:44.967682: I tensorflow/core/profiler/lib/profiler_session.cc:136] Profiler session initializing.
+2023-01-03 15:09:44.967735: I tensorflow/core/profiler/lib/profiler_session.cc:155] Profiler session started.
+2023-01-03 15:09:44.967780: I tensorflow/core/profiler/lib/profiler_session.cc:172] Profiler session tear down.
+[I 2023-01-03 15:11:35.023 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 15:13:35.412 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 15:17:37.667 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 15:19:38.080 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+2023-01-03 15:25:24.035404: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:116] None of the MLIR optimization passes are enabled (registered 2)
+2023-01-03 15:25:24.036251: I tensorflow/core/platform/profile_utils/cpu_utils.cc:112] CPU Frequency: 2794840000 Hz
+[I 2023-01-03 15:25:38.465 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 15:27:38.930 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 15:29:39.370 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 15:31:39.830 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 15:33:40.469 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 15:35:40.929 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 15:37:34.728 ServerApp] Kernel interrupted: aab989fc-e2e8-49e2-9c61-dfd72de435ab
+[I 2023-01-03 15:37:41.425 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 15:52:07.012 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 15:54:07.468 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+2023-01-03 15:54:14.959362: I tensorflow/core/profiler/lib/profiler_session.cc:136] Profiler session initializing.
+2023-01-03 15:54:14.959399: I tensorflow/core/profiler/lib/profiler_session.cc:155] Profiler session started.
+2023-01-03 15:54:14.959432: I tensorflow/core/profiler/lib/profiler_session.cc:172] Profiler session tear down.
+2023-01-03 15:54:59.984815: I tensorflow/core/profiler/lib/profiler_session.cc:136] Profiler session initializing.
+2023-01-03 15:54:59.984849: I tensorflow/core/profiler/lib/profiler_session.cc:155] Profiler session started.
+2023-01-03 15:54:59.984875: I tensorflow/core/profiler/lib/profiler_session.cc:172] Profiler session tear down.
+[I 2023-01-03 15:56:08.006 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 15:58:08.455 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 16:00:08.868 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+2023-01-03 16:00:59.055686: I tensorflow/core/profiler/lib/profiler_session.cc:136] Profiler session initializing.
+2023-01-03 16:00:59.055719: I tensorflow/core/profiler/lib/profiler_session.cc:155] Profiler session started.
+2023-01-03 16:00:59.055745: I tensorflow/core/profiler/lib/profiler_session.cc:172] Profiler session tear down.
+[I 2023-01-03 16:02:09.328 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 16:04:10.633 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 16:06:11.730 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 16:06:56.652 ServerApp] Kernel interrupted: aab989fc-e2e8-49e2-9c61-dfd72de435ab
+[I 2023-01-03 16:06:59.950 ServerApp] Kernel interrupted: aab989fc-e2e8-49e2-9c61-dfd72de435ab
+[I 2023-01-03 16:07:56.171 ServerApp] Kernel interrupted: aab989fc-e2e8-49e2-9c61-dfd72de435ab
+[I 2023-01-03 16:08:12.330 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 16:08:39.529 ServerApp] Kernel interrupted: aab989fc-e2e8-49e2-9c61-dfd72de435ab
+[I 2023-01-03 16:10:12.831 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 16:11:43.106 ServerApp] Kernel interrupted: aab989fc-e2e8-49e2-9c61-dfd72de435ab
+[I 2023-01-03 16:12:13.380 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 16:14:13.836 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 16:14:16.538 ServerApp] Kernel interrupted: aab989fc-e2e8-49e2-9c61-dfd72de435ab
+[I 2023-01-03 16:14:25.028 ServerApp] Kernel interrupted: aab989fc-e2e8-49e2-9c61-dfd72de435ab
+[I 2023-01-03 16:14:28.528 ServerApp] Kernel interrupted: aab989fc-e2e8-49e2-9c61-dfd72de435ab
+[I 2023-01-03 16:16:17.588 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 16:18:17.929 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 16:22:18.197 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 16:24:19.675 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 16:26:20.107 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 16:28:20.515 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 16:30:20.892 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 16:32:21.704 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 16:34:22.130 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 16:36:25.132 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 16:38:29.429 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 16:39:25.528 ServerApp] Kernel interrupted: aab989fc-e2e8-49e2-9c61-dfd72de435ab
+[I 2023-01-03 16:40:29.877 ServerApp] Saving file at /bingmaps/train_res50v2.ipynb
+[I 2023-01-03 16:43:10.313 ServerApp] 302 GET / (127.0.0.1) 0.43ms
+[W 2023-01-03 19:23:48.145 ServerApp] WebSocket ping timeout after 119967 ms.
+[W 2023-01-03 19:23:48.146 ServerApp] WebSocket ping timeout after 119959 ms.
+[W 2023-01-03 19:23:48.190 ServerApp] WebSocket ping timeout after 119976 ms.
+[I 2023-01-03 19:23:53.147 ServerApp] Starting buffering for aab989fc-e2e8-49e2-9c61-dfd72de435ab:9f054e5c-ce1d-476b-9174-2f04519d63dd
+[I 2023-01-03 19:23:53.191 ServerApp] Starting buffering for cccecac5-5cf1-4a98-b56b-302279e8ae76:5224b24d-4ecf-45f8-a9fd-1809b12c5427
+[I 2023-01-04 10:31:33.624 ServerApp] 302 GET /?token=b1da7029f7d9eae6e9b117b3fb3ca54bc70b73325d7ab986 (127.0.0.1) 3.39ms
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[I 2023-01-10 16:27:56.533 ServerApp] jupyterlab | extension was successfully linked.
+[I 2023-01-10 16:27:57.381 ServerApp] nbclassic | extension was successfully linked.
+[I 2023-01-10 16:27:57.481 ServerApp] nbclassic | extension was successfully loaded.
+[I 2023-01-10 16:27:57.482 LabApp] JupyterLab extension loaded from /home/users/pete_nut/miniconda3/envs/sentinelind/lib/python3.8/site-packages/jupyterlab
+[I 2023-01-10 16:27:57.482 LabApp] JupyterLab application directory is /home/users/pete_nut/miniconda3/envs/sentinelind/share/jupyter/lab
+[I 2023-01-10 16:27:57.486 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2023-01-10 16:27:57.486 ServerApp] The port 8888 is already in use, trying another port.
+[I 2023-01-10 16:27:57.487 ServerApp] The port 8889 is already in use, trying another port.
+[I 2023-01-10 16:27:57.487 ServerApp] The port 8890 is already in use, trying another port.
+[I 2023-01-10 16:27:57.487 ServerApp] Serving notebooks from local directory: /home/users/pete_nut/sentinel_industry
+[I 2023-01-10 16:27:57.487 ServerApp] Jupyter Server 1.18.1 is running at:
+[I 2023-01-10 16:27:57.487 ServerApp] http://localhost:8891/lab?token=8bcc44eb5934947c1f8e9d8bf813f69e38baed2c2789c0a4
+[I 2023-01-10 16:27:57.487 ServerApp]  or http://127.0.0.1:8891/lab?token=8bcc44eb5934947c1f8e9d8bf813f69e38baed2c2789c0a4
+[I 2023-01-10 16:27:57.487 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2023-01-10 16:27:57.501 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/users/pete_nut/.local/share/jupyter/runtime/jpserver-21638-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8891/lab?token=8bcc44eb5934947c1f8e9d8bf813f69e38baed2c2789c0a4
+     or http://127.0.0.1:8891/lab?token=8bcc44eb5934947c1f8e9d8bf813f69e38baed2c2789c0a4
+[I 2023-01-10 16:28:04.461 ServerApp] 302 GET /?token=8bcc44eb5934947c1f8e9d8bf813f69e38baed2c2789c0a4 (127.0.0.1) 0.74ms
+[W 2023-01-10 16:28:07.391 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2023-01-10 16:28:10.966 ServerApp] 404 GET /api/contents/IV_shiptracks/compare_ml_detections/ML_ovl_emissions.ipynb?content=0&1673368090950 (127.0.0.1): file or directory does not exist: 'IV_shiptracks/compare_ml_detections/ML_ovl_emissions.ipynb'
+[W 2023-01-10 16:28:10.967 ServerApp] file or directory does not exist: 'IV_shiptracks/compare_ml_detections/ML_ovl_emissions.ipynb'
+[W 2023-01-10 16:28:10.967 ServerApp] 404 GET /api/contents/IV_shiptracks/compare_ml_detections/ML_ovl_emissions.ipynb?content=0&1673368090950 (127.0.0.1) 2.89ms referer=http://localhost:8891/lab
+[W 2023-01-10 16:28:11.736 ServerApp] 404 GET /api/contents/sentinel_industry?1673368091743 (127.0.0.1): file or directory does not exist: 'sentinel_industry'
+[W 2023-01-10 16:28:11.736 ServerApp] file or directory does not exist: 'sentinel_industry'
+[W 2023-01-10 16:28:11.736 ServerApp] 404 GET /api/contents/sentinel_industry?1673368091743 (127.0.0.1) 1.30ms referer=http://localhost:8891/lab
+[W 2023-01-10 16:28:15.214 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-10 16:28:20.495 ServerApp] Kernel started: 26960f75-19ef-4b7c-bf26-aa1c670d5ca9
+2023-01-10 16:28:23.754783: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.10.1
+[I 2023-01-10 16:28:41.837 ServerApp] Creating new directory in 
+Exception in callback <TaskStepMethWrapper object at 0x7f381067b100>()
+handle: <Handle <TaskStepMethWrapper object at 0x7f381067b100>()>
+Traceback (most recent call last):
+  File "/home/users/pete_nut/miniconda3/envs/sentinelind/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-1' coro=<HTTP1ServerConnection._server_request_loop() running at /home/users/pete_nut/miniconda3/envs/sentinelind/lib/python3.8/site-packages/tornado/http1connection.py:842> cb=[IOLoop.add_future.<locals>.<lambda>() at /home/users/pete_nut/miniconda3/envs/sentinelind/lib/python3.8/site-packages/tornado/ioloop.py:687]> while another task <Task pending name='Task-157' coro=<PeriodicCallback._run() running at /home/users/pete_nut/miniconda3/envs/sentinelind/lib/python3.8/site-packages/tornado/ioloop.py:921> cb=[IOLoop.add_future.<locals>.<lambda>() at /home/users/pete_nut/miniconda3/envs/sentinelind/lib/python3.8/site-packages/tornado/ioloop.py:694]> is being executed.
+[W 2023-01-10 16:31:12.767 ServerApp] Notebook process_known_sources.ipynb is not trusted
+[I 2023-01-10 16:31:15.868 ServerApp] Kernel started: 78393580-d658-454c-b2aa-da3fb9933038
+[I 2023-01-10 16:32:17.560 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-10 16:32:17.561 ServerApp] Notebook deploy_test.ipynb is not trusted
+[W 2023-01-10 16:33:06.641 ServerApp] Notebook data_preprocessing.ipynb is not trusted
+[I 2023-01-10 16:33:11.155 ServerApp] Kernel started: e09fdad1-6ec1-48e5-9252-65dcdf9a0a57
+[I 2023-01-10 16:33:14.453 ServerApp] Saving file at /process_known_sources.ipynb
+[W 2023-01-10 16:33:14.454 ServerApp] Notebook process_known_sources.ipynb is not trusted
+[I 2023-01-10 16:35:09.232 ServerApp] Saving file at /data_preprocessing.ipynb
+[W 2023-01-10 16:35:09.233 ServerApp] Notebook data_preprocessing.ipynb is not trusted
+[W 2023-01-10 17:22:21.774 ServerApp] WebSocket ping timeout after 119990 ms.
+[W 2023-01-10 17:22:21.775 ServerApp] WebSocket ping timeout after 119991 ms.
+[I 2023-01-10 17:22:26.785 ServerApp] Starting buffering for 26960f75-19ef-4b7c-bf26-aa1c670d5ca9:9b282dba-49a5-4fb3-a00e-2e2bada965ef
+[W 2023-01-10 17:22:42.968 ServerApp] WebSocket ping timeout after 119989 ms.
+[W 2023-01-10 17:22:47.327 ServerApp] WebSocket ping timeout after 119992 ms.
+[I 2023-01-10 17:22:47.969 ServerApp] Starting buffering for e09fdad1-6ec1-48e5-9252-65dcdf9a0a57:a6868c64-47a9-4ce7-bdce-e3d229b70ea7
+[I 2023-01-10 17:22:52.328 ServerApp] Starting buffering for 78393580-d658-454c-b2aa-da3fb9933038:3e867894-d320-4164-82c6-a7dab59bea9a
+[I 2023-01-11 11:57:56.447 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-11 11:57:56.449 ServerApp] Notebook deploy_test.ipynb is not trusted

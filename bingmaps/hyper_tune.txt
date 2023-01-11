@@ -1,0 +1,13 @@
+#!/bin/bash 
+#SBATCH --partition=lotus_gpu
+#SBATCH --account=lotus_gpu
+#SBATCH --gres=gpu:1 
+#SBATCH -o slurm_out/%A_%a.out
+#SBATCH -e slurm_out/%A_%a.err
+#SBATCH --time=20:00:00
+#SBATCH --nodes=1                    # Run all processes on a single node
+#SBATCH --ntasks=4       
+
+# executable 
+
+/home/users/pete_nut/miniconda3/envs/sentinelind/bin/python /home/users/pete_nut/sentinel_industry/bingmaps/hyperparam_tune.py 

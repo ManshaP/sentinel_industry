@@ -1,0 +1,69 @@
+2023-01-05 16:03:37.433507: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.10.1
+2023-01-05 16:03:40.614358: I tensorflow/compiler/jit/xla_cpu_device.cc:41] Not creating XLA devices, tf_xla_enable_xla_devices not set
+2023-01-05 16:03:40.615535: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcuda.so.1
+2023-01-05 16:03:40.657511: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1720] Found device 0 with properties: 
+pciBusID: 0000:61:00.0 name: Tesla V100-SXM2-32GB computeCapability: 7.0
+coreClock: 1.53GHz coreCount: 80 deviceMemorySize: 31.75GiB deviceMemoryBandwidth: 836.37GiB/s
+2023-01-05 16:03:40.657540: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.10.1
+2023-01-05 16:03:40.661243: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.10
+2023-01-05 16:03:40.661292: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublasLt.so.10
+2023-01-05 16:03:40.664286: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcufft.so.10
+2023-01-05 16:03:40.665308: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcurand.so.10
+2023-01-05 16:03:40.668561: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusolver.so.10
+2023-01-05 16:03:40.670393: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusparse.so.10
+2023-01-05 16:03:40.676077: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.7
+2023-01-05 16:03:40.676758: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1862] Adding visible gpu devices: 0
+2023-01-05 16:03:45.434485: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  SSE4.1 SSE4.2 AVX AVX2 AVX512F FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-01-05 16:03:45.434885: I tensorflow/compiler/jit/xla_gpu_device.cc:99] Not creating XLA devices, tf_xla_enable_xla_devices not set
+2023-01-05 16:03:45.435573: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1720] Found device 0 with properties: 
+pciBusID: 0000:61:00.0 name: Tesla V100-SXM2-32GB computeCapability: 7.0
+coreClock: 1.53GHz coreCount: 80 deviceMemorySize: 31.75GiB deviceMemoryBandwidth: 836.37GiB/s
+2023-01-05 16:03:45.435606: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.10.1
+2023-01-05 16:03:45.435634: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.10
+2023-01-05 16:03:45.435647: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublasLt.so.10
+2023-01-05 16:03:45.435661: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcufft.so.10
+2023-01-05 16:03:45.435676: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcurand.so.10
+2023-01-05 16:03:45.435689: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusolver.so.10
+2023-01-05 16:03:45.435703: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusparse.so.10
+2023-01-05 16:03:45.435716: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.7
+2023-01-05 16:03:45.436309: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1862] Adding visible gpu devices: 0
+2023-01-05 16:03:45.436339: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.10.1
+2023-01-05 16:03:46.521217: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1261] Device interconnect StreamExecutor with strength 1 edge matrix:
+2023-01-05 16:03:46.521260: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1267]      0 
+2023-01-05 16:03:46.521271: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1280] 0:   N 
+2023-01-05 16:03:46.522399: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1406] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 30131 MB memory) -> physical GPU (device: 0, name: Tesla V100-SXM2-32GB, pci bus id: 0000:61:00.0, compute capability: 7.0)
+2023-01-05 16:03:48.060978: I tensorflow/core/profiler/lib/profiler_session.cc:136] Profiler session initializing.
+2023-01-05 16:03:48.061011: I tensorflow/core/profiler/lib/profiler_session.cc:155] Profiler session started.
+2023-01-05 16:03:48.061041: I tensorflow/core/profiler/internal/gpu/cupti_tracer.cc:1365] Profiler found 1 GPUs
+2023-01-05 16:03:48.062933: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcupti.so.10.1
+2023-01-05 16:03:48.164537: E tensorflow/core/profiler/internal/gpu/cupti_tracer.cc:1415] function cupti_interface_->Subscribe( &subscriber_, (CUpti_CallbackFunc)ApiCallback, this)failed with error CUPTI_ERROR_INSUFFICIENT_PRIVILEGES
+2023-01-05 16:03:48.164582: I tensorflow/core/profiler/lib/profiler_session.cc:172] Profiler session tear down.
+2023-01-05 16:03:50.400088: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:116] None of the MLIR optimization passes are enabled (registered 2)
+2023-01-05 16:03:50.401176: I tensorflow/core/platform/profile_utils/cpu_utils.cc:112] CPU Frequency: 2300000000 Hz
+2023-01-05 16:03:53.851791: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.10
+WARNING:tensorflow:multiprocessing can interact badly with TensorFlow, causing nondeterministic deadlocks. For high performance data pipelines tf.data is recommended.
+2023-01-05 16:03:57.056987: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.7
+2023-01-05 16:06:08.686783: I tensorflow/core/profiler/lib/profiler_session.cc:136] Profiler session initializing.
+2023-01-05 16:06:08.687144: I tensorflow/core/profiler/lib/profiler_session.cc:155] Profiler session started.
+2023-01-05 16:06:08.730373: E tensorflow/core/profiler/internal/gpu/cupti_tracer.cc:1415] function cupti_interface_->Subscribe( &subscriber_, (CUpti_CallbackFunc)ApiCallback, this)failed with error CUPTI_ERROR_INSUFFICIENT_PRIVILEGES
+2023-01-05 16:06:25.774209: I tensorflow/core/profiler/lib/profiler_session.cc:71] Profiler session collecting data.
+2023-01-05 16:06:26.278602: I tensorflow/core/profiler/internal/gpu/cupti_collector.cc:228]  GpuTracer has collected 0 callback api events and 0 activity events. 
+2023-01-05 16:06:26.413460: I tensorflow/core/profiler/lib/profiler_session.cc:172] Profiler session tear down.
+2023-01-05 16:06:26.610713: I tensorflow/core/profiler/rpc/client/save_profile.cc:137] Creating directory: /home/users/pete_nut/sentinel_industry/bingmaps/logs/20230105-160348/train/plugins/profile/2023_01_05_16_06_26
+2023-01-05 16:06:26.638021: I tensorflow/core/profiler/rpc/client/save_profile.cc:143] Dumped gzipped tool data for trace.json.gz to /home/users/pete_nut/sentinel_industry/bingmaps/logs/20230105-160348/train/plugins/profile/2023_01_05_16_06_26/gpuhost591.jc.rl.ac.uk.trace.json.gz
+2023-01-05 16:06:26.993429: I tensorflow/core/profiler/rpc/client/save_profile.cc:137] Creating directory: /home/users/pete_nut/sentinel_industry/bingmaps/logs/20230105-160348/train/plugins/profile/2023_01_05_16_06_26
+2023-01-05 16:06:27.002938: I tensorflow/core/profiler/rpc/client/save_profile.cc:143] Dumped gzipped tool data for memory_profile.json.gz to /home/users/pete_nut/sentinel_industry/bingmaps/logs/20230105-160348/train/plugins/profile/2023_01_05_16_06_26/gpuhost591.jc.rl.ac.uk.memory_profile.json.gz
+2023-01-05 16:06:27.029499: I tensorflow/core/profiler/rpc/client/capture_profile.cc:251] Creating directory: /home/users/pete_nut/sentinel_industry/bingmaps/logs/20230105-160348/train/plugins/profile/2023_01_05_16_06_26Dumped tool data for xplane.pb to /home/users/pete_nut/sentinel_industry/bingmaps/logs/20230105-160348/train/plugins/profile/2023_01_05_16_06_26/gpuhost591.jc.rl.ac.uk.xplane.pb
+Dumped tool data for overview_page.pb to /home/users/pete_nut/sentinel_industry/bingmaps/logs/20230105-160348/train/plugins/profile/2023_01_05_16_06_26/gpuhost591.jc.rl.ac.uk.overview_page.pb
+Dumped tool data for input_pipeline.pb to /home/users/pete_nut/sentinel_industry/bingmaps/logs/20230105-160348/train/plugins/profile/2023_01_05_16_06_26/gpuhost591.jc.rl.ac.uk.input_pipeline.pb
+Dumped tool data for tensorflow_stats.pb to /home/users/pete_nut/sentinel_industry/bingmaps/logs/20230105-160348/train/plugins/profile/2023_01_05_16_06_26/gpuhost591.jc.rl.ac.uk.tensorflow_stats.pb
+Dumped tool data for kernel_stats.pb to /home/users/pete_nut/sentinel_industry/bingmaps/logs/20230105-160348/train/plugins/profile/2023_01_05_16_06_26/gpuhost591.jc.rl.ac.uk.kernel_stats.pb
+
+WARNING:tensorflow:multiprocessing can interact badly with TensorFlow, causing nondeterministic deadlocks. For high performance data pipelines tf.data is recommended.
+WARNING:tensorflow:multiprocessing can interact badly with TensorFlow, causing nondeterministic deadlocks. For high performance data pipelines tf.data is recommended.
+WARNING:tensorflow:multiprocessing can interact badly with TensorFlow, causing nondeterministic deadlocks. For high performance data pipelines tf.data is recommended.
+WARNING:tensorflow:multiprocessing can interact badly with TensorFlow, causing nondeterministic deadlocks. For high performance data pipelines tf.data is recommended.
+WARNING:tensorflow:multiprocessing can interact badly with TensorFlow, causing nondeterministic deadlocks. For high performance data pipelines tf.data is recommended.
+WARNING:tensorflow:multiprocessing can interact badly with TensorFlow, causing nondeterministic deadlocks. For high performance data pipelines tf.data is recommended.
+slurmstepd: error: *** JOB 32899587 ON gpuhost591 CANCELLED AT 2023-01-05T16:15:21 ***
