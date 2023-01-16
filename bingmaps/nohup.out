@@ -238,3 +238,294 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 2023-01-11 11:21:52.387893: I tensorflow/core/profiler/lib/profiler_session.cc:155] Profiler session started.
 2023-01-11 11:21:52.387925: I tensorflow/core/profiler/lib/profiler_session.cc:172] Profiler session tear down.
 [I 2023-01-11 11:23:38.548 ServerApp] Saving file at /train_res50v2.ipynb
+[W 2023-01-11 12:37:28.642 ServerApp] WebSocket ping timeout after 119916 ms.
+[I 2023-01-11 12:37:33.644 ServerApp] Starting buffering for 7e38d2e0-6ca6-41f5-9b7a-1955d7cca142:61ea67dc-f3ad-48a1-861d-0475a6b91344
+[I 2023-01-12 09:27:18.123 ServerApp] Restoring connection for 7e38d2e0-6ca6-41f5-9b7a-1955d7cca142:61ea67dc-f3ad-48a1-861d-0475a6b91344
+[I 2023-01-12 09:31:51.405 ServerApp] Saving file at /train_res50v2.ipynb
+2023-01-12 09:31:54.572240: I tensorflow/core/profiler/lib/profiler_session.cc:136] Profiler session initializing.
+2023-01-12 09:31:54.572282: I tensorflow/core/profiler/lib/profiler_session.cc:155] Profiler session started.
+2023-01-12 09:31:54.572402: I tensorflow/core/profiler/lib/profiler_session.cc:172] Profiler session tear down.
+[I 2023-01-12 09:33:51.579 ServerApp] Saving file at /train_res50v2.ipynb
+[W 2023-01-12 11:16:18.126 ServerApp] WebSocket ping timeout after 119993 ms.
+[I 2023-01-12 11:16:23.128 ServerApp] Starting buffering for 7e38d2e0-6ca6-41f5-9b7a-1955d7cca142:61ea67dc-f3ad-48a1-861d-0475a6b91344
+[I 2023-01-13 14:21:09.811 ServerApp] Restoring connection for 7e38d2e0-6ca6-41f5-9b7a-1955d7cca142:61ea67dc-f3ad-48a1-861d-0475a6b91344
+[W 2023-01-13 14:21:17.519 ServerApp] Notebook download_bing.ipynb is not trusted
+[I 2023-01-13 14:21:19.541 ServerApp] Kernel started: 10c52b1a-f9b4-4263-a90d-2f9c728f420b
+[I 2023-01-13 14:22:16.230 ServerApp] Kernel started: a562c628-22a0-4889-bef8-8579925ebadd
+[I 2023-01-13 14:24:20.637 ServerApp] Saving file at /process_known_sourcesreduced_size.ipynb
+[I 2023-01-13 14:31:07.605 ServerApp] Saving file at /train_res50v2.ipynb
+[I 2023-01-13 14:33:08.523 ServerApp] Saving file at /train_res50v2.ipynb
+[I 2023-01-13 14:45:18.881 ServerApp] Saving file at /download_bing.ipynb
+[W 2023-01-13 14:45:18.882 ServerApp] Notebook download_bing.ipynb is not trusted
+[I 2023-01-13 14:47:19.000 ServerApp] Saving file at /download_bing.ipynb
+[W 2023-01-13 14:47:19.000 ServerApp] Notebook download_bing.ipynb is not trusted
+[I 2023-01-13 14:49:19.245 ServerApp] Saving file at /download_bing.ipynb
+[W 2023-01-13 14:49:19.246 ServerApp] Notebook download_bing.ipynb is not trusted
+[I 2023-01-13 14:51:19.520 ServerApp] Saving file at /download_bing.ipynb
+[W 2023-01-13 14:51:19.521 ServerApp] Notebook download_bing.ipynb is not trusted
+xdg-open: no method available for opening '/tmp/tmpv8o4h89x.PNG'
+xdg-open: no method available for opening '/tmp/tmp7sj4_634.PNG'
+xdg-open: no method available for opening '/tmp/tmp45la_k_r.PNG'
+xdg-open: no method available for opening '/tmp/tmpobvqxaga.PNG'
+[I 2023-01-13 14:53:22.330 ServerApp] Saving file at /download_bing.ipynb
+[W 2023-01-13 14:53:22.333 ServerApp] Notebook download_bing.ipynb is not trusted
+[I 2023-01-13 14:57:22.536 ServerApp] Saving file at /download_bing.ipynb
+[W 2023-01-13 14:57:22.536 ServerApp] Notebook download_bing.ipynb is not trusted
+[I 2023-01-13 14:59:22.808 ServerApp] Saving file at /download_bing.ipynb
+[W 2023-01-13 14:59:22.808 ServerApp] Notebook download_bing.ipynb is not trusted
+[I 2023-01-13 15:03:25.661 ServerApp] Saving file at /download_bing.ipynb
+[W 2023-01-13 15:03:25.662 ServerApp] Notebook download_bing.ipynb is not trusted
+[I 2023-01-13 15:21:25.807 ServerApp] Saving file at /download_bing.ipynb
+[W 2023-01-13 15:21:25.808 ServerApp] Notebook download_bing.ipynb is not trusted
+[I 2023-01-13 15:23:09.913 ServerApp] Saving file at /train_res50v2.ipynb
+[I 2023-01-13 15:25:11.071 ServerApp] Saving file at /train_res50v2.ipynb
+xdg-open: no method available for opening '/tmp/tmpcn1usdoc.PNG'
+[I 2023-01-13 15:29:25.941 ServerApp] Saving file at /download_bing.ipynb
+[W 2023-01-13 15:29:25.942 ServerApp] Notebook download_bing.ipynb is not trusted
+xdg-open: no method available for opening '/tmp/tmpxub2mu3y.PNG'
+[I 2023-01-13 15:31:13.019 ServerApp] Saving file at /train_res50v2.ipynb
+[I 2023-01-13 15:31:28.838 ServerApp] Saving file at /download_bing.ipynb
+[W 2023-01-13 15:31:28.839 ServerApp] Notebook download_bing.ipynb is not trusted
+[I 2023-01-13 15:33:13.862 ServerApp] Saving file at /train_res50v2.ipynb
+[I 2023-01-13 15:35:15.722 ServerApp] Saving file at /train_res50v2.ipynb
+[W 2023-01-13 15:54:47.657 ServerApp] WebSocket ping timeout after 119959 ms.
+[W 2023-01-13 15:54:52.061 ServerApp] WebSocket ping timeout after 119900 ms.
+[I 2023-01-13 15:54:52.659 ServerApp] Starting buffering for a562c628-22a0-4889-bef8-8579925ebadd:9778fca5-f186-43a7-aa6d-272944210b91
+[I 2023-01-13 15:54:57.063 ServerApp] Starting buffering for 10c52b1a-f9b4-4263-a90d-2f9c728f420b:64aa1330-4c94-43e0-9de2-590e8ed9d0ad
+[W 2023-01-13 15:55:09.814 ServerApp] WebSocket ping timeout after 119825 ms.
+[I 2023-01-13 15:55:14.817 ServerApp] Starting buffering for 7e38d2e0-6ca6-41f5-9b7a-1955d7cca142:61ea67dc-f3ad-48a1-861d-0475a6b91344
+INFO:server.bingmaps_downloader:{'__type': 'ImageryMetadata:http://schemas.microsoft.com/search/local/ws/rest/v1', 'imageHeight': 256, 'imageUrl': 'http://ecn.{subdomain}.tiles.virtualearth.net/tiles/a{quadkey}.jpeg?g=13239', 'imageUrlSubdomains': ['t0', 't1', 't2', 't3'], 'imageWidth': 256, 'imageryProviders': [{'attribution': '© 2023 Microsoft Corporation', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 1}]}, {'attribution': '© 2022 Maxar', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '©CNES (2022) Distribution Airbus DS', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '© 2022 TMAP MOBILITY', 'coverageAreas': [{'bbox': [34.0135, 124.3834, 38.6701, 129.8908], 'zoomMax': 21, 'zoomMin': 8}, {'bbox': [37.3354, 130.7187, 37.6059, 131.014], 'zoomMax': 21, 'zoomMin': 8}]}, {'attribution': 'Earthstar Geographics  SIO', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 12, 'zoomMin': 1}]}], 'vintageEnd': None, 'vintageStart': None, 'zoomMax': 21, 'zoomMin': 1}
+INFO:server.bingmaps_downloader:Download..
+{"coordinates": [[[120.858372, 33.227812], [120.858372, 33.240388], [120.873408, 33.240388], [120.873408, 33.227812], [120.858372, 33.227812]]], "type": "Polygon"}
+  0%|          | 0/6 [00:00<?, ?it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 17%|█▋        | 1/6 [00:00<00:01,  3.46it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 33%|███▎      | 2/6 [00:00<00:01,  3.17it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 50%|█████     | 3/6 [00:00<00:00,  3.90it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 67%|██████▋   | 4/6 [00:01<00:00,  4.02it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 83%|████████▎ | 5/6 [00:01<00:00,  4.41it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+100%|██████████| 6/6 [00:01<00:00,  4.68it/s]100%|██████████| 6/6 [00:01<00:00,  4.22it/s]
+INFO:server.bingmaps_downloader:Crop..
+INFO:server.bingmaps_downloader:{'__type': 'ImageryMetadata:http://schemas.microsoft.com/search/local/ws/rest/v1', 'imageHeight': 256, 'imageUrl': 'http://ecn.{subdomain}.tiles.virtualearth.net/tiles/a{quadkey}.jpeg?g=13239', 'imageUrlSubdomains': ['t0', 't1', 't2', 't3'], 'imageWidth': 256, 'imageryProviders': [{'attribution': '© 2023 Microsoft Corporation', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 1}]}, {'attribution': '© 2022 Maxar', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '©CNES (2022) Distribution Airbus DS', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '© 2022 TMAP MOBILITY', 'coverageAreas': [{'bbox': [34.0135, 124.3834, 38.6701, 129.8908], 'zoomMax': 21, 'zoomMin': 8}, {'bbox': [37.3354, 130.7187, 37.6059, 131.014], 'zoomMax': 21, 'zoomMin': 8}]}, {'attribution': 'Earthstar Geographics  SIO', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 12, 'zoomMin': 1}]}], 'vintageEnd': None, 'vintageStart': None, 'zoomMax': 21, 'zoomMin': 1}
+INFO:server.bingmaps_downloader:Download..
+{"coordinates": [[[120.893537, 33.013788], [120.893537, 33.026364], [120.908536, 33.026364], [120.908536, 33.013788], [120.893537, 33.013788]]], "type": "Polygon"}
+  0%|          | 0/6 [00:00<?, ?it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 17%|█▋        | 1/6 [00:00<00:01,  3.56it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 33%|███▎      | 2/6 [00:00<00:00,  4.17it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 50%|█████     | 3/6 [00:00<00:00,  4.41it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 67%|██████▋   | 4/6 [00:00<00:00,  4.44it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 83%|████████▎ | 5/6 [00:01<00:00,  4.63it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+100%|██████████| 6/6 [00:01<00:00,  4.67it/s]100%|██████████| 6/6 [00:01<00:00,  4.49it/s]
+INFO:server.bingmaps_downloader:Crop..
+INFO:server.bingmaps_downloader:{'__type': 'ImageryMetadata:http://schemas.microsoft.com/search/local/ws/rest/v1', 'imageHeight': 256, 'imageUrl': 'http://ecn.{subdomain}.tiles.virtualearth.net/tiles/a{quadkey}.jpeg?g=13239', 'imageUrlSubdomains': ['t0', 't1', 't2', 't3'], 'imageWidth': 256, 'imageryProviders': [{'attribution': '© 2022 Microsoft Corporation', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 1}]}, {'attribution': '© 2022 Maxar', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '©CNES (2022) Distribution Airbus DS', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '© 2022 TMAP MOBILITY', 'coverageAreas': [{'bbox': [34.0135, 124.3834, 38.6701, 129.8908], 'zoomMax': 21, 'zoomMin': 8}, {'bbox': [37.3354, 130.7187, 37.6059, 131.014], 'zoomMax': 21, 'zoomMin': 8}]}, {'attribution': 'Earthstar Geographics  SIO', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 12, 'zoomMin': 1}]}], 'vintageEnd': None, 'vintageStart': None, 'zoomMax': 21, 'zoomMin': 1}
+INFO:server.bingmaps_downloader:Download..
+{"coordinates": [[[120.910005, 32.950938], [120.910005, 32.963514], [120.924993, 32.963514], [120.924993, 32.950938], [120.910005, 32.950938]]], "type": "Polygon"}
+  0%|          | 0/7 [00:00<?, ?it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 14%|█▍        | 1/7 [00:00<00:05,  1.08it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 29%|██▊       | 2/7 [00:01<00:04,  1.22it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 43%|████▎     | 3/7 [00:02<00:02,  1.66it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 57%|█████▋    | 4/7 [00:03<00:03,  1.10s/it]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 71%|███████▏  | 5/7 [00:05<00:02,  1.18s/it]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 86%|████████▌ | 6/7 [00:05<00:00,  1.01it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+100%|██████████| 7/7 [00:06<00:00,  1.08it/s]100%|██████████| 7/7 [00:06<00:00,  1.06it/s]
+INFO:server.bingmaps_downloader:Crop..
+INFO:server.bingmaps_downloader:{'__type': 'ImageryMetadata:http://schemas.microsoft.com/search/local/ws/rest/v1', 'imageHeight': 256, 'imageUrl': 'http://ecn.{subdomain}.tiles.virtualearth.net/tiles/a{quadkey}.jpeg?g=13239', 'imageUrlSubdomains': ['t0', 't1', 't2', 't3'], 'imageWidth': 256, 'imageryProviders': [{'attribution': '© 2022 Microsoft Corporation', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 1}]}, {'attribution': '© 2022 Maxar', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '©CNES (2022) Distribution Airbus DS', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '© 2022 TMAP MOBILITY', 'coverageAreas': [{'bbox': [34.0135, 124.3834, 38.6701, 129.8908], 'zoomMax': 21, 'zoomMin': 8}, {'bbox': [37.3354, 130.7187, 37.6059, 131.014], 'zoomMax': 21, 'zoomMin': 8}]}, {'attribution': 'Earthstar Geographics  SIO', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 12, 'zoomMin': 1}]}], 'vintageEnd': None, 'vintageStart': None, 'zoomMax': 21, 'zoomMin': 1}
+INFO:server.bingmaps_downloader:Download..
+{"coordinates": [[[120.910302, 32.938318], [120.910302, 32.950894], [120.925288, 32.950894], [120.925288, 32.938318], [120.910302, 32.938318]]], "type": "Polygon"}
+  0%|          | 0/6 [00:00<?, ?it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 17%|█▋        | 1/6 [00:00<00:00,  5.42it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 33%|███▎      | 2/6 [00:00<00:01,  3.68it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 50%|█████     | 3/6 [00:00<00:00,  3.52it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 67%|██████▋   | 4/6 [00:01<00:00,  3.26it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 83%|████████▎ | 5/6 [00:01<00:00,  2.86it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+100%|██████████| 6/6 [00:01<00:00,  2.78it/s]100%|██████████| 6/6 [00:01<00:00,  3.06it/s]
+INFO:server.bingmaps_downloader:Crop..
+INFO:server.bingmaps_downloader:{'__type': 'ImageryMetadata:http://schemas.microsoft.com/search/local/ws/rest/v1', 'imageHeight': 256, 'imageUrl': 'http://ecn.{subdomain}.tiles.virtualearth.net/tiles/a{quadkey}.jpeg?g=13239', 'imageUrlSubdomains': ['t0', 't1', 't2', 't3'], 'imageWidth': 256, 'imageryProviders': [{'attribution': '© 2022 Microsoft Corporation', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 1}]}, {'attribution': '© 2022 Maxar', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '©CNES (2022) Distribution Airbus DS', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '© 2022 TMAP MOBILITY', 'coverageAreas': [{'bbox': [34.0135, 124.3834, 38.6701, 129.8908], 'zoomMax': 21, 'zoomMin': 8}, {'bbox': [37.3354, 130.7187, 37.6059, 131.014], 'zoomMax': 21, 'zoomMin': 8}]}, {'attribution': 'Earthstar Geographics  SIO', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 12, 'zoomMin': 1}]}], 'vintageEnd': None, 'vintageStart': None, 'zoomMax': 21, 'zoomMin': 1}
+INFO:server.bingmaps_downloader:Download..
+{"coordinates": [[[120.942282, 32.850469], [120.942282, 32.863045], [120.957254, 32.863045], [120.957254, 32.850469], [120.942282, 32.850469]]], "type": "Polygon"}
+  0%|          | 0/6 [00:00<?, ?it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 17%|█▋        | 1/6 [00:00<00:02,  2.04it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 33%|███▎      | 2/6 [00:00<00:01,  2.55it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 50%|█████     | 3/6 [00:01<00:01,  2.02it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 67%|██████▋   | 4/6 [00:02<00:01,  1.87it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 83%|████████▎ | 5/6 [00:02<00:00,  2.09it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+100%|██████████| 6/6 [00:02<00:00,  2.13it/s]100%|██████████| 6/6 [00:02<00:00,  2.10it/s]
+INFO:server.bingmaps_downloader:Crop..
+INFO:server.bingmaps_downloader:{'__type': 'ImageryMetadata:http://schemas.microsoft.com/search/local/ws/rest/v1', 'imageHeight': 256, 'imageUrl': 'http://ecn.{subdomain}.tiles.virtualearth.net/tiles/a{quadkey}.jpeg?g=13239', 'imageUrlSubdomains': ['t0', 't1', 't2', 't3'], 'imageWidth': 256, 'imageryProviders': [{'attribution': '© 2022 Microsoft Corporation', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 1}]}, {'attribution': '© 2022 Maxar', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '©CNES (2022) Distribution Airbus DS', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '© 2022 TMAP MOBILITY', 'coverageAreas': [{'bbox': [34.0135, 124.3834, 38.6701, 129.8908], 'zoomMax': 21, 'zoomMin': 8}, {'bbox': [37.3354, 130.7187, 37.6059, 131.014], 'zoomMax': 21, 'zoomMin': 8}]}, {'attribution': 'Earthstar Geographics  SIO', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 12, 'zoomMin': 1}]}], 'vintageEnd': None, 'vintageStart': None, 'zoomMax': 21, 'zoomMin': 1}
+INFO:server.bingmaps_downloader:Download..
+{"coordinates": [[[120.88367, 32.798993], [120.88367, 32.811569], [120.898633, 32.811569], [120.898633, 32.798993], [120.88367, 32.798993]]], "type": "Polygon"}
+  0%|          | 0/6 [00:00<?, ?it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 17%|█▋        | 1/6 [00:00<00:01,  2.82it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 33%|███▎      | 2/6 [00:00<00:01,  3.10it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 50%|█████     | 3/6 [00:01<00:01,  2.99it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 67%|██████▋   | 4/6 [00:01<00:00,  3.14it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 83%|████████▎ | 5/6 [00:01<00:00,  3.27it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+100%|██████████| 6/6 [00:01<00:00,  2.94it/s]100%|██████████| 6/6 [00:01<00:00,  3.02it/s]
+INFO:server.bingmaps_downloader:Crop..
+INFO:server.bingmaps_downloader:{'__type': 'ImageryMetadata:http://schemas.microsoft.com/search/local/ws/rest/v1', 'imageHeight': 256, 'imageUrl': 'http://ecn.{subdomain}.tiles.virtualearth.net/tiles/a{quadkey}.jpeg?g=13239', 'imageUrlSubdomains': ['t0', 't1', 't2', 't3'], 'imageWidth': 256, 'imageryProviders': [{'attribution': '© 2022 Microsoft Corporation', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 1}]}, {'attribution': '© 2022 Maxar', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '©CNES (2022) Distribution Airbus DS', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '© 2022 TMAP MOBILITY', 'coverageAreas': [{'bbox': [34.0135, 124.3834, 38.6701, 129.8908], 'zoomMax': 21, 'zoomMin': 8}, {'bbox': [37.3354, 130.7187, 37.6059, 131.014], 'zoomMax': 21, 'zoomMin': 8}]}, {'attribution': 'Earthstar Geographics  SIO', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 12, 'zoomMin': 1}]}], 'vintageEnd': None, 'vintageStart': None, 'zoomMax': 21, 'zoomMin': 1}
+INFO:server.bingmaps_downloader:Download..
+{"coordinates": [[[120.928502, 32.79974], [120.928502, 32.812317], [120.943465, 32.812317], [120.943465, 32.79974], [120.928502, 32.79974]]], "type": "Polygon"}
+  0%|          | 0/6 [00:00<?, ?it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 17%|█▋        | 1/6 [00:00<00:01,  2.63it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 33%|███▎      | 2/6 [00:00<00:01,  2.53it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 50%|█████     | 3/6 [00:01<00:01,  2.48it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 67%|██████▋   | 4/6 [00:01<00:00,  2.54it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 83%|████████▎ | 5/6 [00:01<00:00,  2.48it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+100%|██████████| 6/6 [00:02<00:00,  2.40it/s]100%|██████████| 6/6 [00:02<00:00,  2.46it/s]
+INFO:server.bingmaps_downloader:Crop..
+INFO:server.bingmaps_downloader:{'__type': 'ImageryMetadata:http://schemas.microsoft.com/search/local/ws/rest/v1', 'imageHeight': 256, 'imageUrl': 'http://ecn.{subdomain}.tiles.virtualearth.net/tiles/a{quadkey}.jpeg?g=13239', 'imageUrlSubdomains': ['t0', 't1', 't2', 't3'], 'imageWidth': 256, 'imageryProviders': [{'attribution': '© 2023 Microsoft Corporation', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 1}]}, {'attribution': '© 2022 Maxar', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '©CNES (2022) Distribution Airbus DS', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '© 2022 TMAP MOBILITY', 'coverageAreas': [{'bbox': [34.0135, 124.3834, 38.6701, 129.8908], 'zoomMax': 21, 'zoomMin': 8}, {'bbox': [37.3354, 130.7187, 37.6059, 131.014], 'zoomMax': 21, 'zoomMin': 8}]}, {'attribution': 'Earthstar Geographics  SIO', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 12, 'zoomMin': 1}]}], 'vintageEnd': None, 'vintageStart': None, 'zoomMax': 21, 'zoomMin': 1}
+INFO:server.bingmaps_downloader:Download..
+{"coordinates": [[[120.869329, 32.7735], [120.869329, 32.786076], [120.884287, 32.786076], [120.884287, 32.7735], [120.869329, 32.7735]]], "type": "Polygon"}
+  0%|          | 0/6 [00:00<?, ?it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 17%|█▋        | 1/6 [00:00<00:02,  2.33it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 33%|███▎      | 2/6 [00:01<00:02,  1.79it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 50%|█████     | 3/6 [00:01<00:01,  2.14it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 67%|██████▋   | 4/6 [00:02<00:01,  1.50it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 83%|████████▎ | 5/6 [00:02<00:00,  1.59it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+100%|██████████| 6/6 [00:03<00:00,  1.76it/s]100%|██████████| 6/6 [00:03<00:00,  1.75it/s]
+INFO:server.bingmaps_downloader:Crop..
+INFO:server.bingmaps_downloader:{'__type': 'ImageryMetadata:http://schemas.microsoft.com/search/local/ws/rest/v1', 'imageHeight': 256, 'imageUrl': 'http://ecn.{subdomain}.tiles.virtualearth.net/tiles/a{quadkey}.jpeg?g=13239', 'imageUrlSubdomains': ['t0', 't1', 't2', 't3'], 'imageWidth': 256, 'imageryProviders': [{'attribution': '© 2022 Microsoft Corporation', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 1}]}, {'attribution': '© 2022 Maxar', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '©CNES (2022) Distribution Airbus DS', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '© 2022 TMAP MOBILITY', 'coverageAreas': [{'bbox': [34.0135, 124.3834, 38.6701, 129.8908], 'zoomMax': 21, 'zoomMin': 8}, {'bbox': [37.3354, 130.7187, 37.6059, 131.014], 'zoomMax': 21, 'zoomMin': 8}]}, {'attribution': 'Earthstar Geographics  SIO', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 12, 'zoomMin': 1}]}], 'vintageEnd': None, 'vintageStart': None, 'zoomMax': 21, 'zoomMin': 1}
+INFO:server.bingmaps_downloader:Download..
+{"coordinates": [[[120.885462, 32.723271], [120.885462, 32.735847], [120.900412, 32.735847], [120.900412, 32.723271], [120.885462, 32.723271]]], "type": "Polygon"}
+  0%|          | 0/6 [00:00<?, ?it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 17%|█▋        | 1/6 [00:00<00:02,  1.82it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 33%|███▎      | 2/6 [00:00<00:01,  2.24it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 50%|█████     | 3/6 [00:01<00:01,  2.25it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 67%|██████▋   | 4/6 [00:01<00:00,  2.18it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 83%|████████▎ | 5/6 [00:02<00:00,  2.44it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+100%|██████████| 6/6 [00:02<00:00,  2.20it/s]100%|██████████| 6/6 [00:02<00:00,  2.21it/s]
+INFO:server.bingmaps_downloader:Crop..
+INFO:server.bingmaps_downloader:{'__type': 'ImageryMetadata:http://schemas.microsoft.com/search/local/ws/rest/v1', 'imageHeight': 256, 'imageUrl': 'http://ecn.{subdomain}.tiles.virtualearth.net/tiles/a{quadkey}.jpeg?g=13239', 'imageUrlSubdomains': ['t0', 't1', 't2', 't3'], 'imageWidth': 256, 'imageryProviders': [{'attribution': '© 2022 Microsoft Corporation', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 1}]}, {'attribution': '© 2022 Maxar', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '©CNES (2022) Distribution Airbus DS', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '© 2022 TMAP MOBILITY', 'coverageAreas': [{'bbox': [34.0135, 124.3834, 38.6701, 129.8908], 'zoomMax': 21, 'zoomMin': 8}, {'bbox': [37.3354, 130.7187, 37.6059, 131.014], 'zoomMax': 21, 'zoomMin': 8}]}, {'attribution': 'Earthstar Geographics  SIO', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 12, 'zoomMin': 1}]}], 'vintageEnd': None, 'vintageStart': None, 'zoomMax': 21, 'zoomMin': 1}
+INFO:server.bingmaps_downloader:Download..
+{"coordinates": [[[120.930256, 32.724016], [120.930256, 32.736592], [120.945206, 32.736592], [120.945206, 32.724016], [120.930256, 32.724016]]], "type": "Polygon"}
+  0%|          | 0/7 [00:00<?, ?it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 14%|█▍        | 1/7 [00:00<00:02,  2.19it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 29%|██▊       | 2/7 [00:00<00:02,  2.34it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 43%|████▎     | 3/7 [00:01<00:02,  1.94it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 57%|█████▋    | 4/7 [00:02<00:01,  1.92it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 71%|███████▏  | 5/7 [00:02<00:01,  1.82it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 86%|████████▌ | 6/7 [00:03<00:00,  1.24it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+100%|██████████| 7/7 [00:04<00:00,  1.51it/s]100%|██████████| 7/7 [00:04<00:00,  1.63it/s]
+INFO:server.bingmaps_downloader:Crop..
+INFO:server.bingmaps_downloader:{'__type': 'ImageryMetadata:http://schemas.microsoft.com/search/local/ws/rest/v1', 'imageHeight': 256, 'imageUrl': 'http://ecn.{subdomain}.tiles.virtualearth.net/tiles/a{quadkey}.jpeg?g=13239', 'imageUrlSubdomains': ['t0', 't1', 't2', 't3'], 'imageWidth': 256, 'imageryProviders': [{'attribution': '© 2022 Microsoft Corporation', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 1}]}, {'attribution': '© 2022 Maxar', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '©CNES (2022) Distribution Airbus DS', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '© 2022 TMAP MOBILITY', 'coverageAreas': [{'bbox': [34.0135, 124.3834, 38.6701, 129.8908], 'zoomMax': 21, 'zoomMin': 8}, {'bbox': [37.3354, 130.7187, 37.6059, 131.014], 'zoomMax': 21, 'zoomMin': 8}]}, {'attribution': 'Earthstar Geographics  SIO', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 12, 'zoomMin': 1}]}], 'vintageEnd': None, 'vintageStart': None, 'zoomMax': 21, 'zoomMin': 1}
+INFO:server.bingmaps_downloader:Download..
+{"coordinates": [[[120.88576, 32.71065], [120.88576, 32.723226], [120.900708, 32.723226], [120.900708, 32.71065], [120.88576, 32.71065]]], "type": "Polygon"}
+  0%|          | 0/7 [00:00<?, ?it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 14%|█▍        | 1/7 [00:00<00:01,  5.54it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 29%|██▊       | 2/7 [00:00<00:02,  2.17it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 43%|████▎     | 3/7 [00:01<00:01,  2.08it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 57%|█████▋    | 4/7 [00:01<00:01,  2.29it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 71%|███████▏  | 5/7 [00:02<00:00,  2.55it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 86%|████████▌ | 6/7 [00:02<00:00,  2.41it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+100%|██████████| 7/7 [00:02<00:00,  2.34it/s]100%|██████████| 7/7 [00:02<00:00,  2.38it/s]
+INFO:server.bingmaps_downloader:Crop..
+INFO:server.bingmaps_downloader:{'__type': 'ImageryMetadata:http://schemas.microsoft.com/search/local/ws/rest/v1', 'imageHeight': 256, 'imageUrl': 'http://ecn.{subdomain}.tiles.virtualearth.net/tiles/a{quadkey}.jpeg?g=13239', 'imageUrlSubdomains': ['t0', 't1', 't2', 't3'], 'imageWidth': 256, 'imageryProviders': [{'attribution': '© 2022 Microsoft Corporation', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 1}]}, {'attribution': '© 2022 Maxar', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '©CNES (2022) Distribution Airbus DS', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '© 2022 TMAP MOBILITY', 'coverageAreas': [{'bbox': [34.0135, 124.3834, 38.6701, 129.8908], 'zoomMax': 21, 'zoomMin': 8}, {'bbox': [37.3354, 130.7187, 37.6059, 131.014], 'zoomMax': 21, 'zoomMin': 8}]}, {'attribution': 'Earthstar Geographics  SIO', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 12, 'zoomMin': 1}]}], 'vintageEnd': None, 'vintageStart': None, 'zoomMax': 21, 'zoomMin': 1}
+INFO:server.bingmaps_downloader:Download..
+{"coordinates": [[[120.931422, 32.673532], [120.931422, 32.686108], [120.946363, 32.686108], [120.946363, 32.673532], [120.931422, 32.673532]]], "type": "Polygon"}
+  0%|          | 0/7 [00:00<?, ?it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 14%|█▍        | 1/7 [00:00<00:02,  2.44it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 29%|██▊       | 2/7 [00:00<00:02,  2.24it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 43%|████▎     | 3/7 [00:01<00:02,  1.64it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 57%|█████▋    | 4/7 [00:02<00:01,  1.86it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 71%|███████▏  | 5/7 [00:03<00:01,  1.49it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 86%|████████▌ | 6/7 [00:03<00:00,  1.72it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+100%|██████████| 7/7 [00:04<00:00,  1.33it/s]100%|██████████| 7/7 [00:04<00:00,  1.55it/s]
+INFO:server.bingmaps_downloader:Crop..
+INFO:server.bingmaps_downloader:{'__type': 'ImageryMetadata:http://schemas.microsoft.com/search/local/ws/rest/v1', 'imageHeight': 256, 'imageUrl': 'http://ecn.{subdomain}.tiles.virtualearth.net/tiles/a{quadkey}.jpeg?g=13239', 'imageUrlSubdomains': ['t0', 't1', 't2', 't3'], 'imageWidth': 256, 'imageryProviders': [{'attribution': '© 2022 Microsoft Corporation', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 1}]}, {'attribution': '© 2022 Maxar', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '©CNES (2022) Distribution Airbus DS', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '© 2022 TMAP MOBILITY', 'coverageAreas': [{'bbox': [34.0135, 124.3834, 38.6701, 129.8908], 'zoomMax': 21, 'zoomMin': 8}, {'bbox': [37.3354, 130.7187, 37.6059, 131.014], 'zoomMax': 21, 'zoomMin': 8}]}, {'attribution': 'Earthstar Geographics  SIO', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 12, 'zoomMin': 1}]}], 'vintageEnd': None, 'vintageStart': None, 'zoomMax': 21, 'zoomMin': 1}
+INFO:server.bingmaps_downloader:Download..
+{"coordinates": [[[120.947211, 32.635913], [120.947211, 32.648489], [120.962147, 32.648489], [120.962147, 32.635913], [120.947211, 32.635913]]], "type": "Polygon"}
+  0%|          | 0/6 [00:00<?, ?it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 17%|█▋        | 1/6 [00:00<00:04,  1.21it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 33%|███▎      | 2/6 [00:01<00:02,  1.64it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 50%|█████     | 3/6 [00:01<00:01,  1.96it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 67%|██████▋   | 4/6 [00:02<00:01,  1.69it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 83%|████████▎ | 5/6 [00:03<00:00,  1.36it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+100%|██████████| 6/6 [00:03<00:00,  1.50it/s]100%|██████████| 6/6 [00:03<00:00,  1.53it/s]
+INFO:server.bingmaps_downloader:Crop..
+INFO:server.bingmaps_downloader:{'__type': 'ImageryMetadata:http://schemas.microsoft.com/search/local/ws/rest/v1', 'imageHeight': 256, 'imageUrl': 'http://ecn.{subdomain}.tiles.virtualearth.net/tiles/a{quadkey}.jpeg?g=13239', 'imageUrlSubdomains': ['t0', 't1', 't2', 't3'], 'imageWidth': 256, 'imageryProviders': [{'attribution': '© 2023 Microsoft Corporation', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 1}]}, {'attribution': '© 2022 Maxar', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '©CNES (2022) Distribution Airbus DS', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '© 2022 TMAP MOBILITY', 'coverageAreas': [{'bbox': [34.0135, 124.3834, 38.6701, 129.8908], 'zoomMax': 21, 'zoomMin': 8}, {'bbox': [37.3354, 130.7187, 37.6059, 131.014], 'zoomMax': 21, 'zoomMin': 8}]}, {'attribution': 'Earthstar Geographics  SIO', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 12, 'zoomMin': 1}]}], 'vintageEnd': None, 'vintageStart': None, 'zoomMax': 21, 'zoomMin': 1}
+INFO:server.bingmaps_downloader:Download..
+{"coordinates": [[[120.962129, 32.636155], [120.962129, 32.648732], [120.977064, 32.648732], [120.977064, 32.636155], [120.962129, 32.636155]]], "type": "Polygon"}
+  0%|          | 0/7 [00:00<?, ?it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 14%|█▍        | 1/7 [00:00<00:03,  1.94it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 29%|██▊       | 2/7 [00:01<00:02,  1.80it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 43%|████▎     | 3/7 [00:01<00:02,  1.62it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 57%|█████▋    | 4/7 [00:02<00:01,  1.83it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 71%|███████▏  | 5/7 [00:03<00:01,  1.58it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 86%|████████▌ | 6/7 [00:03<00:00,  1.47it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+100%|██████████| 7/7 [00:04<00:00,  1.65it/s]100%|██████████| 7/7 [00:04<00:00,  1.65it/s]
+INFO:server.bingmaps_downloader:Crop..
+INFO:server.bingmaps_downloader:{'__type': 'ImageryMetadata:http://schemas.microsoft.com/search/local/ws/rest/v1', 'imageHeight': 256, 'imageUrl': 'http://ecn.{subdomain}.tiles.virtualearth.net/tiles/a{quadkey}.jpeg?g=13239', 'imageUrlSubdomains': ['t0', 't1', 't2', 't3'], 'imageWidth': 256, 'imageryProviders': [{'attribution': '© 2022 Microsoft Corporation', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 1}]}, {'attribution': '© 2022 Maxar', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '©CNES (2022) Distribution Airbus DS', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '© 2022 TMAP MOBILITY', 'coverageAreas': [{'bbox': [34.0135, 124.3834, 38.6701, 129.8908], 'zoomMax': 21, 'zoomMin': 8}, {'bbox': [37.3354, 130.7187, 37.6059, 131.014], 'zoomMax': 21, 'zoomMin': 8}]}, {'attribution': 'Earthstar Geographics  SIO', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 12, 'zoomMin': 1}]}], 'vintageEnd': None, 'vintageStart': None, 'zoomMax': 21, 'zoomMin': 1}
+INFO:server.bingmaps_downloader:Download..
+{"coordinates": [[[120.903638, 32.584692], [120.903638, 32.597268], [120.918564, 32.597268], [120.918564, 32.584692], [120.903638, 32.584692]]], "type": "Polygon"}
+  0%|          | 0/6 [00:00<?, ?it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 17%|█▋        | 1/6 [00:01<00:05,  1.11s/it]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 33%|███▎      | 2/6 [00:01<00:02,  1.42it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 50%|█████     | 3/6 [00:02<00:02,  1.02it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 67%|██████▋   | 4/6 [00:03<00:01,  1.07it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 83%|████████▎ | 5/6 [00:04<00:00,  1.17it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+100%|██████████| 6/6 [00:05<00:00,  1.18it/s]100%|██████████| 6/6 [00:05<00:00,  1.14it/s]
+INFO:server.bingmaps_downloader:Crop..
+INFO:server.bingmaps_downloader:{'__type': 'ImageryMetadata:http://schemas.microsoft.com/search/local/ws/rest/v1', 'imageHeight': 256, 'imageUrl': 'http://ecn.{subdomain}.tiles.virtualearth.net/tiles/a{quadkey}.jpeg?g=13239', 'imageUrlSubdomains': ['t0', 't1', 't2', 't3'], 'imageWidth': 256, 'imageryProviders': [{'attribution': '© 2022 Microsoft Corporation', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 1}]}, {'attribution': '© 2022 Maxar', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '©CNES (2022) Distribution Airbus DS', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '© 2022 TMAP MOBILITY', 'coverageAreas': [{'bbox': [34.0135, 124.3834, 38.6701, 129.8908], 'zoomMax': 21, 'zoomMin': 8}, {'bbox': [37.3354, 130.7187, 37.6059, 131.014], 'zoomMax': 21, 'zoomMin': 8}]}, {'attribution': 'Earthstar Geographics  SIO', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 12, 'zoomMin': 1}]}], 'vintageEnd': None, 'vintageStart': None, 'zoomMax': 21, 'zoomMin': 1}
+INFO:server.bingmaps_downloader:Download..
+{"coordinates": [[[121.083625, 32.537051], [121.083625, 32.549627], [121.098544, 32.549627], [121.098544, 32.537051], [121.083625, 32.537051]]], "type": "Polygon"}
+  0%|          | 0/7 [00:00<?, ?it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 14%|█▍        | 1/7 [00:00<00:02,  2.69it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 29%|██▊       | 2/7 [00:00<00:02,  2.12it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 43%|████▎     | 3/7 [00:01<00:01,  2.31it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 57%|█████▋    | 4/7 [00:01<00:01,  2.36it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 71%|███████▏  | 5/7 [00:02<00:00,  2.36it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+ 86%|████████▌ | 6/7 [00:02<00:00,  2.24it/s]INFO:server.bingmaps_downloader:len horizontal list: 5
+100%|██████████| 7/7 [00:03<00:00,  1.91it/s]100%|██████████| 7/7 [00:03<00:00,  2.12it/s]
+INFO:server.bingmaps_downloader:Crop..
+INFO:server.bingmaps_downloader:{'__type': 'ImageryMetadata:http://schemas.microsoft.com/search/local/ws/rest/v1', 'imageHeight': 256, 'imageUrl': 'http://ecn.{subdomain}.tiles.virtualearth.net/tiles/a{quadkey}.jpeg?g=13239', 'imageUrlSubdomains': ['t0', 't1', 't2', 't3'], 'imageWidth': 256, 'imageryProviders': [{'attribution': '© 2023 Microsoft Corporation', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 1}]}, {'attribution': '© 2022 Maxar', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '©CNES (2022) Distribution Airbus DS', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '© 2022 TMAP MOBILITY', 'coverageAreas': [{'bbox': [34.0135, 124.3834, 38.6701, 129.8908], 'zoomMax': 21, 'zoomMin': 8}, {'bbox': [37.3354, 130.7187, 37.6059, 131.014], 'zoomMax': 21, 'zoomMin': 8}]}, {'attribution': 'Earthstar Geographics  SIO', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 12, 'zoomMin': 1}]}], 'vintageEnd': None, 'vintageStart': None, 'zoomMax': 21, 'zoomMin': 1}
+INFO:server.bingmaps_downloader:Download..
+{"coordinates": [[[121.098527, 32.537276], [121.098527, 32.549853], [121.113446, 32.549853], [121.113446, 32.537276], [121.098527, 32.537276]]], "type": "Polygon"}
+  0%|          | 0/7 [00:00<?, ?it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 14%|█▍        | 1/7 [00:01<00:06,  1.06s/it]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 29%|██▊       | 2/7 [00:01<00:03,  1.38it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 43%|████▎     | 3/7 [00:01<00:02,  1.69it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 57%|█████▋    | 4/7 [00:02<00:01,  1.65it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 71%|███████▏  | 5/7 [00:03<00:01,  1.24it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 86%|████████▌ | 6/7 [00:04<00:00,  1.46it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+100%|██████████| 7/7 [00:04<00:00,  1.65it/s]100%|██████████| 7/7 [00:04<00:00,  1.50it/s]
+INFO:server.bingmaps_downloader:Crop..
+INFO:server.bingmaps_downloader:{'__type': 'ImageryMetadata:http://schemas.microsoft.com/search/local/ws/rest/v1', 'imageHeight': 256, 'imageUrl': 'http://ecn.{subdomain}.tiles.virtualearth.net/tiles/a{quadkey}.jpeg?g=13239', 'imageUrlSubdomains': ['t0', 't1', 't2', 't3'], 'imageWidth': 256, 'imageryProviders': [{'attribution': '© 2023 Microsoft Corporation', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 1}]}, {'attribution': '© 2022 Maxar', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '©CNES (2022) Distribution Airbus DS', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '© 2022 TMAP MOBILITY', 'coverageAreas': [{'bbox': [34.0135, 124.3834, 38.6701, 129.8908], 'zoomMax': 21, 'zoomMin': 8}, {'bbox': [37.3354, 130.7187, 37.6059, 131.014], 'zoomMax': 21, 'zoomMin': 8}]}, {'attribution': 'Earthstar Geographics  SIO', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 12, 'zoomMin': 1}]}], 'vintageEnd': None, 'vintageStart': None, 'zoomMax': 21, 'zoomMin': 1}
+INFO:server.bingmaps_downloader:Download..
+{"coordinates": [[[121.098793, 32.524654], [121.098793, 32.53723], [121.11371, 32.53723], [121.11371, 32.524654], [121.098793, 32.524654]]], "type": "Polygon"}
+  0%|          | 0/6 [00:00<?, ?it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 17%|█▋        | 1/6 [00:00<00:01,  4.89it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 33%|███▎      | 2/6 [00:00<00:01,  2.28it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 50%|█████     | 3/6 [00:01<00:01,  1.91it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 67%|██████▋   | 4/6 [00:01<00:00,  2.02it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+ 83%|████████▎ | 5/6 [00:02<00:00,  1.64it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+100%|██████████| 6/6 [00:03<00:00,  1.82it/s]100%|██████████| 6/6 [00:03<00:00,  1.92it/s]
+INFO:server.bingmaps_downloader:Crop..
+INFO:server.bingmaps_downloader:{'__type': 'ImageryMetadata:http://schemas.microsoft.com/search/local/ws/rest/v1', 'imageHeight': 256, 'imageUrl': 'http://ecn.{subdomain}.tiles.virtualearth.net/tiles/a{quadkey}.jpeg?g=13239', 'imageUrlSubdomains': ['t0', 't1', 't2', 't3'], 'imageWidth': 256, 'imageryProviders': [{'attribution': '© 2022 Microsoft Corporation', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 1}]}, {'attribution': '© 2022 Maxar', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '©CNES (2022) Distribution Airbus DS', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 21, 'zoomMin': 13}]}, {'attribution': '© 2022 TMAP MOBILITY', 'coverageAreas': [{'bbox': [34.0135, 124.3834, 38.6701, 129.8908], 'zoomMax': 21, 'zoomMin': 8}, {'bbox': [37.3354, 130.7187, 37.6059, 131.014], 'zoomMax': 21, 'zoomMin': 8}]}, {'attribution': 'Earthstar Geographics  SIO', 'coverageAreas': [{'bbox': [-90, -180, 90, 180], 'zoomMax': 12, 'zoomMin': 1}]}], 'vintageEnd': None, 'vintageStart': None, 'zoomMax': 21, 'zoomMin': 1}
+INFO:server.bingmaps_downloader:Download..
+{"coordinates": [[[121.411953, 32.516353], [121.411953, 32.52893], [121.426869, 32.52893], [121.426869, 32.516353], [121.411953, 32.516353]]], "type": "Polygon"}
+  0%|          | 0/7 [00:00<?, ?it/s]INFO:server.bingmaps_downloader:len horizontal list: 6
+  0%|          | 0/7 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/home/users/pete_nut/miniconda3/envs/sentinelind/lib/python3.8/site-packages/PIL/JpegImagePlugin.py", line 630, in _save
+    rawmode = RAWMODE[im.mode]
+KeyError: 'P'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "dl_deploy_bing.py", line 9, in <module>
+    download_bing_aoi(
+  File "/home/users/pete_nut/sentinel_industry/bingmaps/bingmaps_downloader.py", line 567, in download_bing_aoi
+    img = imgretrieval.imagery_retrieval()
+  File "/home/users/pete_nut/sentinel_industry/bingmaps/bingmaps_downloader.py", line 392, in imagery_retrieval
+    ) = self.horizontal_retrieval_and_stitch_image(
+  File "/home/users/pete_nut/sentinel_industry/bingmaps/bingmaps_downloader.py", line 337, in horizontal_retrieval_and_stitch_image
+    image = self.download_image(
+  File "/home/users/pete_nut/sentinel_industry/bingmaps/bingmaps_downloader.py", line 250, in download_image
+    self.save_image(cache_dir=cache_dir, image_response=r, url=tileurl)
+  File "/home/users/pete_nut/sentinel_industry/bingmaps/bingmaps_downloader.py", line 304, in save_image
+    img.save(dst_path.as_posix())
+  File "/home/users/pete_nut/miniconda3/envs/sentinelind/lib/python3.8/site-packages/PIL/Image.py", line 2320, in save
+    save_handler(self, fp, filename)
+  File "/home/users/pete_nut/miniconda3/envs/sentinelind/lib/python3.8/site-packages/PIL/JpegImagePlugin.py", line 632, in _save
+    raise OSError(f"cannot write mode {im.mode} as JPEG") from e
+OSError: cannot write mode P as JPEG

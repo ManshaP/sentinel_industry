@@ -251,3 +251,169 @@ RuntimeError: Cannot enter into task <Task pending name='Task-1' coro=<HTTP1Serv
 [I 2023-01-10 17:22:52.328 ServerApp] Starting buffering for 78393580-d658-454c-b2aa-da3fb9933038:3e867894-d320-4164-82c6-a7dab59bea9a
 [I 2023-01-11 11:57:56.447 ServerApp] Saving file at /deploy_test.ipynb
 [W 2023-01-11 11:57:56.449 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-11 14:38:29.962 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-11 14:38:29.963 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-11 14:53:46.274 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-11 14:53:46.275 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-11 14:55:46.553 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-11 14:55:46.554 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-11 14:57:47.149 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-11 14:57:47.150 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-11 14:59:47.531 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-11 14:59:47.533 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-11 15:19:47.837 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-11 15:19:47.838 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-11 15:35:20.217 ServerApp] Kernel interrupted: 26960f75-19ef-4b7c-bf26-aa1c670d5ca9
+[I 2023-01-11 15:35:32.287 ServerApp] Kernel interrupted: 26960f75-19ef-4b7c-bf26-aa1c670d5ca9
+[I 2023-01-11 15:35:32.432 ServerApp] Kernel interrupted: 26960f75-19ef-4b7c-bf26-aa1c670d5ca9
+[I 2023-01-11 15:35:32.627 ServerApp] Kernel interrupted: 26960f75-19ef-4b7c-bf26-aa1c670d5ca9
+[I 2023-01-11 15:35:32.820 ServerApp] Kernel interrupted: 26960f75-19ef-4b7c-bf26-aa1c670d5ca9
+[I 2023-01-11 15:35:32.969 ServerApp] Kernel interrupted: 26960f75-19ef-4b7c-bf26-aa1c670d5ca9
+[I 2023-01-11 15:35:33.141 ServerApp] Kernel interrupted: 26960f75-19ef-4b7c-bf26-aa1c670d5ca9
+[I 2023-01-11 15:35:33.346 ServerApp] Kernel interrupted: 26960f75-19ef-4b7c-bf26-aa1c670d5ca9
+[I 2023-01-11 15:35:33.450 ServerApp] Kernel interrupted: 26960f75-19ef-4b7c-bf26-aa1c670d5ca9
+[I 2023-01-11 15:35:33.574 ServerApp] Kernel interrupted: 26960f75-19ef-4b7c-bf26-aa1c670d5ca9
+[I 2023-01-11 15:36:12.080 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-11 15:36:12.082 ServerApp] Notebook deploy_test.ipynb is not trusted
+[W 2023-01-11 15:48:39.440 ServerApp] WebSocket ping timeout after 119756 ms.
+[I 2023-01-11 15:48:44.441 ServerApp] Starting buffering for 26960f75-19ef-4b7c-bf26-aa1c670d5ca9:bf1600e2-c866-48e0-a53b-7c945de7582b
+[I 2023-01-12 09:27:12.058 ServerApp] Restoring connection for 26960f75-19ef-4b7c-bf26-aa1c670d5ca9:bf1600e2-c866-48e0-a53b-7c945de7582b
+[I 2023-01-12 11:06:57.956 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 11:06:57.957 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 11:08:58.082 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 11:08:58.083 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 11:10:58.193 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 11:10:58.194 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 11:12:58.309 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 11:12:58.310 ServerApp] Notebook deploy_test.ipynb is not trusted
+[W 2023-01-12 11:16:12.058 ServerApp] WebSocket ping timeout after 119992 ms.
+[W 2023-01-12 11:16:12.906 ServerApp] zmq message arrived on closed channel
+[W 2023-01-12 11:16:14.057 ServerApp] zmq message arrived on closed channel
+[W 2023-01-12 11:16:15.125 ServerApp] zmq message arrived on closed channel
+[W 2023-01-12 11:16:15.916 ServerApp] zmq message arrived on closed channel
+[W 2023-01-12 11:16:16.746 ServerApp] zmq message arrived on closed channel
+[I 2023-01-12 11:16:17.068 ServerApp] Starting buffering for 26960f75-19ef-4b7c-bf26-aa1c670d5ca9:bf1600e2-c866-48e0-a53b-7c945de7582b
+[I 2023-01-12 12:36:59.828 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 12:36:59.830 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 12:49:00.774 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 12:49:00.775 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 12:49:16.349 ServerApp] Restoring connection for 26960f75-19ef-4b7c-bf26-aa1c670d5ca9:bf1600e2-c866-48e0-a53b-7c945de7582b
+[I 2023-01-12 12:49:16.368 ServerApp] Replaying 20 buffered messages
+[I 2023-01-12 12:51:00.917 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 12:51:00.919 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 12:53:01.016 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 12:53:01.017 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 12:55:01.139 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 12:55:01.140 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 12:57:01.233 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 12:57:01.235 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 12:57:10.680 ServerApp] Kernel interrupted: 26960f75-19ef-4b7c-bf26-aa1c670d5ca9
+[I 2023-01-12 12:59:01.332 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 12:59:01.333 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:01:01.444 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:01:01.445 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:03:01.557 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:03:01.558 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:05:01.691 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:05:01.692 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:09:01.795 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:09:01.796 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:11:01.959 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:11:01.960 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:13:02.829 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:13:02.830 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:15:03.037 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:15:03.038 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:17:03.332 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:17:03.333 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:19:03.580 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:19:03.581 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:21:04.039 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:21:04.040 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:23:04.175 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:23:04.176 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:23:36.515 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:23:36.516 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:25:36.718 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:25:36.719 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:27:37.915 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:27:37.916 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:29:38.406 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:29:38.408 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:31:39.518 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:31:39.520 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:33:39.817 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:33:39.821 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:35:40.905 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:35:40.906 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:37:41.100 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:37:41.101 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:39:41.449 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:39:41.450 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:41:42.401 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:41:42.402 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:43:42.544 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:43:42.545 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:45:42.657 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:45:42.659 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:47:42.799 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:47:42.800 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:49:42.930 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:49:42.931 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:51:43.121 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:51:43.122 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:53:44.070 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:53:44.071 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:55:44.426 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:55:44.427 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:57:44.958 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:57:44.959 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 13:59:45.103 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 13:59:45.104 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 14:01:45.272 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 14:01:45.274 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 14:03:45.408 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 14:03:45.409 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 14:05:45.538 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 14:05:45.539 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 14:07:45.669 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 14:07:45.670 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 14:09:45.801 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 14:09:45.802 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 14:11:45.949 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 14:11:45.950 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 14:13:46.144 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 14:13:46.146 ServerApp] Notebook deploy_test.ipynb is not trusted
+[I 2023-01-12 14:15:46.313 ServerApp] Saving file at /deploy_test.ipynb
+[W 2023-01-12 14:15:46.314 ServerApp] Notebook deploy_test.ipynb is not trusted
+[W 2023-01-12 14:17:46.350 ServerApp] WebSocket ping timeout after 119993 ms.
+[W 2023-01-12 14:17:46.414 ServerApp] zmq message arrived on closed channel
+[W 2023-01-12 14:17:47.532 ServerApp] zmq message arrived on closed channel
+[W 2023-01-12 14:17:48.515 ServerApp] zmq message arrived on closed channel
+[W 2023-01-12 14:17:49.682 ServerApp] zmq message arrived on closed channel
+[W 2023-01-12 14:17:50.558 ServerApp] zmq message arrived on closed channel
+[I 2023-01-12 14:17:51.352 ServerApp] Starting buffering for 26960f75-19ef-4b7c-bf26-aa1c670d5ca9:bf1600e2-c866-48e0-a53b-7c945de7582b
+[I 2023-01-12 14:59:39.250 ServerApp] Restoring connection for 26960f75-19ef-4b7c-bf26-aa1c670d5ca9:bf1600e2-c866-48e0-a53b-7c945de7582b
+[I 2023-01-12 14:59:39.250 ServerApp] Replaying 2293 buffered messages
+[I 2023-01-12 15:30:16.823 ServerApp] Starting buffering for 26960f75-19ef-4b7c-bf26-aa1c670d5ca9:bf1600e2-c866-48e0-a53b-7c945de7582b
+[I 2023-01-12 15:30:17.042 ServerApp] Restoring connection for 26960f75-19ef-4b7c-bf26-aa1c670d5ca9:bf1600e2-c866-48e0-a53b-7c945de7582b
+[W 2023-01-12 16:18:47.044 ServerApp] WebSocket ping timeout after 119897 ms.
+[W 2023-01-12 16:18:47.345 ServerApp] zmq message arrived on closed channel
+[W 2023-01-12 16:18:48.682 ServerApp] zmq message arrived on closed channel
+[W 2023-01-12 16:18:49.790 ServerApp] zmq message arrived on closed channel
+[W 2023-01-12 16:18:50.846 ServerApp] zmq message arrived on closed channel
+[I 2023-01-12 16:18:52.046 ServerApp] Starting buffering for 26960f75-19ef-4b7c-bf26-aa1c670d5ca9:bf1600e2-c866-48e0-a53b-7c945de7582b
+[I 2023-01-13 09:56:17.906 ServerApp] Restoring connection for 26960f75-19ef-4b7c-bf26-aa1c670d5ca9:bf1600e2-c866-48e0-a53b-7c945de7582b
+[I 2023-01-13 09:56:17.927 ServerApp] Replaying 1087 buffered messages
+[I 2023-01-13 10:05:37.254 ServerApp] Starting buffering for 26960f75-19ef-4b7c-bf26-aa1c670d5ca9:bf1600e2-c866-48e0-a53b-7c945de7582b
+[I 2023-01-13 10:05:43.855 ServerApp] 302 GET /?token=8bcc44eb5934947c1f8e9d8bf813f69e38baed2c2789c0a4 (127.0.0.1) 0.54ms
+[W 2023-01-13 10:05:46.258 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2023-01-13 10:05:47.094 ServerApp] Notebook deploy_test.ipynb is not trusted
+[W 2023-01-13 10:05:47.104 ServerApp] Notebook process_known_sources.ipynb is not trusted
+[I 2023-01-13 10:06:00.332 ServerApp] Shutting down on /api/shutdown request.
+[I 2023-01-13 10:06:00.335 ServerApp] Shutting down 2 extensions
+[I 2023-01-13 10:06:00.336 ServerApp] Shutting down 3 kernels
+[I 2023-01-13 10:06:00.336 ServerApp] Kernel shutdown: 26960f75-19ef-4b7c-bf26-aa1c670d5ca9
+[I 2023-01-13 10:06:00.337 ServerApp] Kernel shutdown: 78393580-d658-454c-b2aa-da3fb9933038
+[I 2023-01-13 10:06:00.337 ServerApp] Kernel shutdown: e09fdad1-6ec1-48e5-9252-65dcdf9a0a57
+[I 2023-01-13 10:06:03.353 ServerApp] Shutting down 0 terminals
