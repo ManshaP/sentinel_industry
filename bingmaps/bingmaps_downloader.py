@@ -301,7 +301,7 @@ class AerialImageRetrieval:
         dst_fn = self.generate_caching_name(url)
         dst_fn = f"{dst_fn}.jpeg"
         dst_path = Path(cache_dir, dst_fn)
-        img.save(dst_path.as_posix())
+        img.save(dst_path.as_posix()) #.convert('RGB')
 
     def horizontal_retrieval_and_stitch_image(
         self, tile_x_start: int, tile_x_end: int, tile_y: int, level: int
